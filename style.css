@@ -1,0 +1,9 @@
+.navbar-nav > li{
+  padding-left:10px;
+  padding-right:10px;
+  font-size:25px;
+}
+
+.text-div {
+    margin: 10px;
+}
